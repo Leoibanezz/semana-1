@@ -23,3 +23,10 @@
 |-------------------|-------------------------|
 |alias eleventy = npx @11ty/eleventy --serve 🌀 | Funciona para poder observar o desplegar nuestra md bajo un host|
 |alias cl = clear terminal | Sirve para dejar nuestra terminal limpia |
+
+
+### Mi Perfil de GitHub
+
+<a href="https://github.com/Leoibanezz"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="MyGitHub"
+/></a>
+
